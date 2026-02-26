@@ -5,7 +5,7 @@
 </a>
 
 # Hi there, I'm Gerges Sadek 👋
-### 📱 Flutter Developer | Cross-Platform Specialist | CS Student
+### 📱 Flutter Developer | Cross-Platform Specialist 
 
 <p align="center">
   <a href="https://linkedin.com/in/gergesadek"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -34,34 +34,14 @@ I am a dedicated **Flutter Developer** and a **Computer Science Student** at Akh
 
 <div align="center">
 
-**`Mobile Development`**
-<br>
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-
-**`Languages`**
-<br>
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**`State Management & Architecture`**
-<br>
-`Cubit` • `BLoC` • `Provider` • `Riverpod` • `GetX`
-<br>
-`Clean Architecture` • `MVVM` • `SOLID` • `OOP`
-
-**`Backend & APIs`**
-<br>
-`RESTful APIs` • `Firebase` • `Cloud Firestore` • `JSON`
-
-**`Tools & OS`**
-<br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) |
+| **Languages** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **State Management** | `Cubit` • `BLoC` • `Provider` • `Riverpod` • `GetX` |
+| **Architecture** | `Clean Architecture` • `MVVM` • `SOLID` • `OOP` |
+| **Backend & APIs** | `RESTful APIs` • `Firebase` • `Cloud Firestore` • `JSON` |
+| **Tools & OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
 </div>
 
@@ -78,14 +58,15 @@ I am a dedicated **Flutter Developer** and a **Computer Science Student** at Akh
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=dev-gerges-sadek&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Gerges's GitHub Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gerges-sadek&layout=compact&theme=radical" alt="Gerges's Top Languages" />
-</div>
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-gerges-sadek&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gerges-sadek&layout=compact&theme=radical" />
+</p>
 
 <br>
 
 ---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=100&section=footer" width="100%"/>
 </div>
