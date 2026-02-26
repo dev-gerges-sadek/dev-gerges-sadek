@@ -1,98 +1,73 @@
-# Hi, I'm {{Gerges Sadek}} 👋
+<div align="center">
 
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://gerges-sadek-3ynfjey.gamma.site/)
+[![Portfolio GIF](![gif](https://github.com/user-attachments/assets/ed530b06-f3c7-4c74-885e-2a3f35062de4))](https://gerges-sadek-3ynfjey.gamma.site/)
+# [cite_start]Hi, I'm Gerges Sadek 👋 [cite: 1, 148]
+### Flutter Developer | [cite_start]Cross-Platform Mobile Developer [cite: 2] 📱
 
-**Simple tagline / short bio (one line):**
+[cite_start][![Linkedin Badge](https://img.shields.io/badge/-Gerges_Sadek-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/gergesadek)](https://linkedin.com/in/gergesadek) [cite: 7]
+[cite_start][![GitHub Badge](https://img.shields.io/badge/-dev--gerges--sadek-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/dev-gerges-sadek)](https://github.com/dev-gerges-sadek) [cite: 6]
+[cite_start][![Portfolio Badge](https://img.shields.io/badge/-My_Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://gerges-sadek-3ynfjey.gamma.site/)](https://gerges-sadek-3ynfjey.gamma.site/) [cite: 8]
+[cite_start][![Gmail Badge](https://img.shields.io/badge/-ggerges460@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ggerges460@gmail.com)](mailto:ggerges460@gmail.com) [cite: 5]
 
-> Software Developer  Flutter Developer
----
-
-## 🧭 Quick info
-
-* 📍 Location: {{City, Country}}
-* 🎯 Looking for: {{Internship / Job / Collaboration / Projects}}
-* 💬 Languages: English (simple), العربية (إذا أحببت)
+</div>
 
 ---
 
-## 🛠️ Tech & Languages (pick what fits you)
+## 👨‍💻 About Me
 
-![Python](https://img.shields.io/badge/-Python-000?\&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?\&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?\&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?\&logo=Java\&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?\&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?\&logo=c%2b%2b\&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?\&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?\&logo=Swift)
+Welcome to my profile! [cite_start]I am a **Flutter Developer** based in Giza, Egypt[cite: 3]. [cite_start]I have a solid Computer Science background and hands-on experience building scalable mobile applications using Clean Architecture and BLoC[cite: 10]. 
 
-### Platforms & Tools
+* [cite_start]🔭 I’m currently a **Flutter & Dart Instructor** at DSC Akhbar El-Yom Academy, where I deliver structured sessions and mentor students in building real applications[cite: 11, 19].
+* [cite_start]🌱 I’m focused on clean code, scalability, and continuous professional growth[cite: 12].
+* [cite_start]🎓 I am a graduate of the NTI professional training program and the McKinsey Forward Program[cite: 11].
+* [cite_start]🤝 I’m a member of Google Developer Student Clubs (GDSC) and a Competitive Programmer on CodeForces[cite: 36, 37].
+* [cite_start]📫 How to reach me: **ggerges460@gmail.com** [cite: 5] [cite_start]or via phone at **+20 1200797719**[cite: 4].
 
-![AWS](https://img.shields.io/badge/-AWS-000?\&logo=Amazon-AWS\&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?\&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?\&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?\&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?\&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?\&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?\&logo=React)
+---
+
+## 🛠️ Technical Skills
+
+### Languages & Frameworks
+[cite_start]![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart&logoColor=0175C2) [cite: 14]
+[cite_start]![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter&logoColor=02569B) [cite: 15]
+
+### Architecture & State Management
+[cite_start]![BLoC](https://img.shields.io/badge/-BLoC-000?&logo=flutter) [cite: 16]
+[cite_start]![Provider](https://img.shields.io/badge/-Provider-000?&logo=flutter) [cite: 16]
+[cite_start]![Riverpod](https://img.shields.io/badge/-Riverpod-000?&logo=flutter) [cite: 16]
+[cite_start]![GetX](https://img.shields.io/badge/-GetX-000?&logo=flutter) [cite: 16]
+[cite_start]![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture-000?&logo=codeigniter) [cite: 16]
+
+### Backend & Tools
+[cite_start]![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase&logoColor=FFCA28) [cite: 16]
+[cite_start]![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032) [cite: 16]
+[cite_start]![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman&logoColor=FF6C37) [cite: 16]
+[cite_start]![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma&logoColor=F24E1E) [cite: 17]
 
 ---
 
 ## 🚀 Featured Projects
 
-> Add your GitHub repo links after each title
-
-* **My Website** — Personal portfolio and blog. `https://github.com/{{YOUR_USERNAME}}/v2`
-* **COVID-19 Dashboard** — Data dashboard and visualizations.
-* **Summarizer** — Text summarization tool.
-* **KubeSat** — Small satellite + Kubernetes research project.
-
-### 🛡️ Cybersecurity / Special projects
-
-* **Heartbleed** — Demo / research repo.
-* **SYN Flood** — Network attack simulation (educational use only).
-* **SQL Injection** — Learning playground (DON'T use on remote systems).
-* **Network Tools** — Packet sniffing & spoofing educational tools.
-
-> ⚠️ Note: If you include security demos, always add an ethics statement and usage limits.
+* [cite_start]🛒 **Waffar_ly App:** An e-commerce application built using Clean Architecture and REST APIs[cite: 25].
+* [cite_start]✅ **Daily-Do App:** A comprehensive task management app featuring advanced state management[cite: 26].
+* [cite_start]⛅ **Weather App:** Integrated with the Open Weather API using BLOC for state management[cite: 26].
+* [cite_start]📰 **News App:** A responsive UI application that fetches categorized news[cite: 27].
 
 ---
 
-## 📊 GitHub Stats (replace `{{YOUR_USERNAME}}` in URLs)
+## 🏆 Certifications & Professional Development
 
-<a href="https://github.com/{{YOUR_USERNAME}}"><img align="left" src="https://github-readme-stats.vercel.app/api?username={{YOUR_USERNAME}}&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite" alt="{{YOUR_USERNAME}}'s GitHub stats" /></a>
-
-<a href="https://github.com/{{YOUR_USERNAME}}"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{YOUR_USERNAME}}&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Top languages" /></a>
-
----
-
-## 🌐 Socials & Contact
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat\&logo=Linkedin\&logoColor=white\&link={{LINKEDIN_URL}})]({{LINKEDIN_URL}})
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat\&logo=Medium\&link={{MEDIUM_URL}})]({{MEDIUM_URL}})
-[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat\&logo=Google-Chrome\&link={{WEBSITE_URL}})]({{WEBSITE_URL}})
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat\&logo=Instagram\&link={{INSTA_URL}})]({{INSTA_URL}})
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat\&logo=Gmail\&link=mailto:{{EMAIL}})](mailto:{{EMAIL}})
+* [cite_start]**McKinsey.org Forward Program** (Dec 2025) [cite: 29, 116]
+* [cite_start]**NTI - Cross-Platform Mobile Development** (Grade: A, 120+ hours) [cite: 22, 23]
+* [cite_start]**HP LIFE Certifications:** Effective Leadership, Sales, Networking, Marketing, Success Mindset, Target Audience [cite: 30, 44, 57, 69, 81, 93, 106]
+* [cite_start]**Simplilearn:** Introduction to Flutter & Introduction to Figma [cite: 126, 137]
+* [cite_start]**IFRC Stay Safe 2.0:** Level 3 Security for Managers [cite: 31]
 
 ---
 
-## ✨ Community / Word Cloud
+## 📊 GitHub Stats
 
-If you want a community word cloud like Gerges's, you can:
-
-1. Create a GitHub issue in a repo that auto-generates a wordcloud.
-2. Show the image with `![](path/to/wordcloud.png)`
-
-## 🧾 How to quickly customize this README
-
-1. Replace `{{dev-gerges-sadek}}`, `{{Gerges-Sadek}}`, and all `{{...}}` placeholders.
-2. Change the gif header image to your own (upload to a repo and change URL).
-3. Edit the Featured Projects list to link your repos and add short descriptions.
-4. If you include security tools, add a clear "For educational use only" section.
-5. Translate any lines to Arabic if you prefer — keep GitHub-visible parts in English for wider audience.
-
----
-
-
-
-Thanks for visiting — feel free to ask me to tune tone, shorten it, or convert fully to Arabic.
+<div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=dev-gerges-sadek&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gerges-sadek&hide_title=true&hide_border=true&layout=compact&theme=radical" />
+</div>
