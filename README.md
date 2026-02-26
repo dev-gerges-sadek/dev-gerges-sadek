@@ -32,8 +32,6 @@ I am a dedicated **Flutter Developer** and a **Computer Science Student** at Akh
 
 ## 🛠️ Technical Skills
 
-<div align="center">
-
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) |
@@ -42,8 +40,6 @@ I am a dedicated **Flutter Developer** and a **Computer Science Student** at Akh
 | **Architecture** | `Clean Architecture` • `MVVM` • `SOLID` • `OOP` |
 | **Backend & APIs** | `RESTful APIs` • `Firebase` • `Cloud Firestore` • `JSON` |
 | **Tools & OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-
-</div>
 
 <br>
 
@@ -58,10 +54,10 @@ I am a dedicated **Flutter Developer** and a **Computer Science Student** at Akh
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-gerges-sadek&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gerges-sadek&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-gerges-sadek&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-gerges-sadek&layout=compact&theme=radical" />
+</div>
 
 <br>
 
