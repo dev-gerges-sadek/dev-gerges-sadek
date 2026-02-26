@@ -51,18 +51,22 @@ I am a dedicated **Flutter Developer** and a **Computer Science Student** at Akh
 * 📰 **News App:** Dynamic news fetching application featuring a fully responsive UI.
 
 <br>
+<br>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-gerges-sadek&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-gerges-sadek&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-gerges-sadek&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td width="10"></td> 
+      <td>
+        <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-gerges-sadek&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=100&section=footer" width="100%"/>
-</div>
