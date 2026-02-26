@@ -54,10 +54,10 @@ I am a dedicated **Flutter Developer** and a **Computer Science Student** at Akh
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-gerges-sadek&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-gerges-sadek&layout=compact&theme=radical" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-gerges-sadek&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-gerges-sadek&layout=compact&theme=radical" />
+</p>
 
 <br>
 
