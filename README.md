@@ -105,7 +105,7 @@ class Gerges extends FlutterDeveloper {
 
 <div align="center">
   <a href="https://github.com/dev-gerges-sadek">
-    <img src="https://raw.githubusercontent.com/dev-gerges-sadek/dev-gerges-sadek/metrics/github-metrics.svg" width="100%" alt="GitHub Metrics"/>
+    <img src="https://raw.githubusercontent.com/dev-gerges-sadek/dev-gerges-sadek/main/github-metrics.svg" width="100%" alt="GitHub Metrics"/>
   </a>
 </div>
 
