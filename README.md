@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f7fd6,100:54c5f8&height=200&section=header&text=Gerges%20Sadek&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Flutter%20Developer%20%C2%B7%20Android%20%C2%B7%20iOS%20%C2%B7%20Web&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Gerges Sadek, Flutter Developer"/>
 
-<a href="https://dev-gerges-sadek.github.io">
+<a href="https://dev-gerges-sadek.github.io/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=54C5F8&center=true&vCenter=true&width=620&lines=I+build+Flutter+apps+that+ship;Clean+Architecture+%C2%B7+BLoC+%C2%B7+Firebase;Ex-Flutter+Intern+%40+EVA+Pharma;5%2B+apps+delivered+as+a+freelancer;Node.js+%26+MongoDB+on+the+backend" alt="Typing intro"/>
 </a>
 
