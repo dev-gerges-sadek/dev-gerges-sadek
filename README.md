@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 <a href="https://dev-gerges-sadek.github.io/">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f7fd6,100:54c5f8&height=200&section=header&text=Gerges%20Sadek&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Flutter%20Developer%20%C2%B7%20Android%20%C2%B7%20iOS%20%C2%B7%20Web&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Gerges Sadek - Visit Portfolio"/>
@@ -9,7 +10,7 @@
 </a>
 
 <p>
-  <a href="https://dev-gerges-sadek.github.io">
+  <a href="https://dev-gerges-sadek.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-dev--gerges--sadek.github.io-54C5F8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/gergesadek">
@@ -40,11 +41,19 @@
 class Gerges extends FlutterDeveloper {
   final location = 'Giza, Egypt';
   final platforms = ['Android', 'iOS', 'Web'];
+
   final architecture = CleanArchitecture(
     layers: ['presentation', 'domain', 'data'],
   );
+
   final state = BlocAndCubit();
-  final backend = ['Firebase', 'Supabase', 'Node.js', 'MongoDB'];
+  final backend = [
+    'Firebase',
+    'Supabase',
+    'Node.js',
+    'MongoDB'
+  ];
+
   final openToWork = true; // On-site, hybrid or remote
 }
 ```
@@ -85,7 +94,7 @@ class Gerges extends FlutterDeveloper {
 | 🏥 [**Clinic_ERC**](https://github.com/dev-gerges-sadek/Clinic_ERC) | Clinic system for the Egyptian Red Crescent (in progress). | JavaScript · Python · Supabase |
 
 <div align="center">
-  <a href="https://dev-gerges-sadek.github.io">
+  <a href="https://dev-gerges-sadek.github.io/">
     <b>➜ Explore all my projects on my Portfolio</b>
   </a>
 </div>
@@ -95,8 +104,9 @@ class Gerges extends FlutterDeveloper {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-gerges-sadek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06101d&title_color=54c5f8&icon_color=ffb547&text_color=e9f2fc" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gerges-sadek&layout=compact&theme=tokyonight&hide_border=true&bg_color=06101d&title_color=54c5f8&text_color=e9f2fc" alt="Most used programming languages"/>
+  <a href="https://github.com/dev-gerges-sadek">
+    <img src="https://raw.githubusercontent.com/dev-gerges-sadek/dev-gerges-sadek/metrics/github-metrics.svg" width="100%" alt="GitHub Metrics"/>
+  </a>
 </div>
 
 <div align="center">
